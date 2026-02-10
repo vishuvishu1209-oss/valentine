@@ -52,7 +52,7 @@ Original file line number	Diff line number	Diff line change
 </head>
 <body>
     <audio id="music" loop preload="auto">
-        <source src="https://docs.google.com/uc?export=open&id=1-IxwpTLbEwoNu2Z4hpOKw2INNyPGg5Ud" type="audio/mpeg">
+        <source src="https://shorturl.at/Y4Wbs" type="audio/mpeg">
     </audio>
     <div id="music-toggle" onclick="toggleMusic()">🎵</div>
     <div id="q-screen" class="screen">
